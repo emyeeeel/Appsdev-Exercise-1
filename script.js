@@ -1,4 +1,3 @@
-const form = document.getElementById('form');
 const first = document.getElementById('first-num');
 const second = document.getElementById('second-num');
 const result = document.getElementById('result');
